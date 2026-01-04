@@ -1,0 +1,44 @@
+.first-box {
+    width: 1, 920px;
+    height: 930px;
+
+
+    border: 2px solid;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.first-box h1 {
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 734px;
+    height: 200px;
+    top: 270px;
+    left: 100px;
+
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #114455;
+}
+
+.first-box p {
+    margin-left: 100px;
+    width: 1, 060;
+    height: 40px;
+    top: 518px;
+    opacity: 70%;
+}
+
+.first-box button {
+    margin-left: 100px;
+    width: 197px;
+    height: 64px;
+    top: 630px;
+    left: 102px;
+    border: 1px;
+    background-color: #114455;
+    color: white;
+}

@@ -1,0 +1,42 @@
+.footer {
+    width: 1, 920px;
+    height: 200px;
+    top: 4077px;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer .invo {
+    margin-left: 100px;
+    width: 1, 076px;
+    height: 36px;
+    top: 4150px;
+    left: 100px;
+    opacity: 70%;
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 4%;
+}
+
+.footer .info {
+    margin-left: 400px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 4px;
+}
+
+.footer div {
+    margin-right: 1px;
+    width: 240px;
+    height: 40px;
+    top: 4157px;
+    left: 1580px;
+
+
+}

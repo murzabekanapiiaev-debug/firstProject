@@ -1,0 +1,56 @@
+.header-side {
+    width: 1, 920px;
+    height: 144px;
+    border: 1px;
+
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+
+}
+
+.header-side img {
+    width: 175.77px;
+    height: 32px;
+    top: 56px;
+    left: 100px;
+    margin-left: 100px;
+
+
+
+}
+
+.header-side div {
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.header-side div a {
+    display: flex;
+    align-items: center;
+    width: 84px;
+    height: 36px;
+    top: 54px;
+    left: 1437px;
+
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    line-height: 36px;
+
+}
+
+.header-side div button {
+    width: 181px;
+    height: 56px;
+    top: 44px;
+    left: 1639px;
+    border: 1px;
+    background-color: orange;
+    border-radius: 8px;
+    border: none;
+}

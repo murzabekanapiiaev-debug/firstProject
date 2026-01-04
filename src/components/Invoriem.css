@@ -1,0 +1,40 @@
+.container-1 h1 {
+    margin-left: 100px;
+    width: 486px;
+    height: 100px;
+    top: 1264px;
+
+
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.container-1 p {
+    margin-left: 100px;
+    width: 1, 076px;
+    height: 88px;
+    top: 1376px;
+    left: 100px;
+    opacity: 70%;
+
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 44px;
+    letter-spacing: 0%;
+
+}
+
+.container-1 .img {
+    margin-left: 100px;
+    background-image: url(../assets/Big.jpg);
+    width: 1, 720px;
+    height: 757px;
+}
+
+.container-1 div .foto {
+
+    margin-left: 45%;
+    margin-top: 30%;
+}

@@ -1,0 +1,78 @@
+.CaseStudio {
+    width: 1, 920px;
+    height: 1, 268px;
+    top: 1160px;
+    border: 1px solid;
+}
+
+
+.CaseStudio h1 {
+    margin-left: 100px;
+    width: 486px;
+    height: 100px;
+    top: 1264px;
+    left: 100px;
+
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 100px;
+    letter-spacing: 0px;
+    color: #1f1f1f;
+}
+
+.CaseStudio p {
+    margin-left: 100px;
+    width: 1, 076px;
+    height: 88px;
+    left: 100px;
+    opacity: 70%;
+
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 44px;
+    letter-spacing: 0%;
+}
+
+.CaseStudio .cards {
+
+    margin-left: 100px;
+    display: flex;
+
+
+    width: 1, 920px;
+    height: 760px;
+    top: 1564px;
+    left: 100px;
+    gap: 130px;
+
+    align-items: center;
+
+}
+
+.cards div h3 {
+    margin-top: -170px;
+    margin-left: -60px;
+
+    width: 445px;
+    height: 175px;
+    top: 2045px;
+    left: 100px;
+
+
+
+    font-weight: 400px;
+    font-size: 100px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+
+
+}
+
+.CaseStudio .cards img {
+    width: 445px;
+    height: 560px;
+    top: 1564px;
+    left: 180px;
+
+}

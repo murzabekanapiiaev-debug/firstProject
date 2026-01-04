@@ -1,4 +1,3 @@
-import React from "react";
 import "./Intro.css"
 function intro() {
     return (

@@ -1,11 +1,10 @@
 
-import Instagram from "../assets/imgFooter/Instagram.svg";
+import Instagram from "../assets/imgFooter/instagram.svg";
 import Facebook from "../assets/imgFooter/facebook.svg";
 import Twitter from "../assets/imgFooter/twitter.svg";
-import In from "../assets/imgFooter/linkedin.svg"
+import In from "../assets/imgFooter/lin.svg"
 
 import "./Footer.css"
-
 const Footer = () => {
     return (
         <>

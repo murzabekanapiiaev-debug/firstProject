@@ -11,11 +11,7 @@
 
 }
 
-@media (min-width: 70px) {
-    body {
-        background-color: green;
-    }
-}
+@media (min-width: 70px) {}
 
 
 .header-side img {

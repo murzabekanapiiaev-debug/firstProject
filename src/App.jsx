@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Header from './components/Header';
-import Intro from './components/intro';
+import Intro from './components/Intro';
 import CaseStudio from './components/CaseStudio';
 import Invoriem from './components/Invoriem';
 import Footer from './components/Footer';
@@ -14,10 +14,9 @@ function App() {
   return (
     <>
       <div className='app'>
-        <div className='header-intro'>
-          <Header />
-          <Intro />
-        </div>
+
+        <Header />
+        <Intro />
         <CaseStudio />
         <Invoriem />
         <Footer />
